@@ -23,7 +23,7 @@ Push the above changes to GitHub or GitLab.
 
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
-![Image description](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-data-pt-02-2020-u-c/raw/master/02-Homework/03-Python/Instructions/Images/revenue-per-lead.png)
+![Image description](https://github.com/Dardari/python-challenge/blob/master/revenue-per-lead.png)
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
 
