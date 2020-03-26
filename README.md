@@ -54,7 +54,7 @@ Average  Change: $-2315.12
 Greatest Increase in Profits: Feb-2012 ($1926159)
 Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
-![Image description](https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-data-pt-02-2020-u-c/raw/master/02-Homework/03-Python/Instructions/Images/Vote_counting.png)
+![Image description](https://github.com/Dardari/python-challenge/blob/master/Vote_counting.png)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
